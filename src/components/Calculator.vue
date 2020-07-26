@@ -96,7 +96,7 @@ export default {
 
 <style scoped>
 #calculator{
-  margin: 150px auto;
+  margin: 50px auto;
     width: 300px;
     display: grid;
     grid-template-columns: auto auto auto auto;
